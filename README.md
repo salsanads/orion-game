@@ -1,5 +1,5 @@
 # Orion Game
-Quiz game for identifying students of Fasilkom UI Batch 2014.<br />
+Quiz game for identifying students of Fasilkom UI batch 2014.<br />
 created with ActionScript 3.0.<br />
 <br />
 <a href="http://salsanads.github.io/orion-game" target="_blank">Click here</a> to start the game!<br />
